@@ -1,0 +1,13 @@
+[
+    {
+        "title":"Test Title",
+        "text":"Test text",
+        "id": "1"
+    },
+
+    {
+        "title":"assignment 11",
+        "text":"To build a note taker app using express.js",
+        "id": "2"
+    }
+]
