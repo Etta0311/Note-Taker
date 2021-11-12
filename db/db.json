@@ -1,13 +1,13 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
+        "title":"Example note",
+        "text":"Example test",
         "id": "1"
     },
 
     {
-        "title":"assignment 11",
-        "text":"To build a note taker app using express.js",
+        "title":"assignment 11 description",
+        "text":"To build a note taker app using express.js, with the usage of middleware and Heroku",
         "id": "2"
     }
 ]
