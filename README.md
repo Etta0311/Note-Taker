@@ -35,8 +35,8 @@ npm install
 node server.js
 ```
 ## Usage
-    View the full DEMO video on YOUTUBE.
-    [Demo](https://youtu.be/ggwpw17D90Y)
+View the full DEMO video on YOUTUBE.
+[Demo](https://youtu.be/ggwpw17D90Y)
 
 ## Contributors
 
