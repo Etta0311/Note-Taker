@@ -22,7 +22,7 @@ server.post('/', (req, res) => {
         id: uuid(),
       };
   
-    readAndAppend(newNotesaved , './db/tips.json');
+    readAndAppend(newNotesaved , './db/db.json');
 
     res.json(`Note saved successfully 🚀`);
   } else {
