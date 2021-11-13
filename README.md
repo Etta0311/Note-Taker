@@ -43,7 +43,7 @@ View the full DEMO video on YOUTUBE.
 ![contribution](./RMimages/contributors.png)
 
 ## Contacts
-    For any questions, Please reach me via [email](etta0311031@gmail.com).
+For any questions, Please reach me via [email](etta0311031@gmail.com).
 
 
 ## License
